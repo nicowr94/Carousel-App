@@ -3,9 +3,15 @@
 Se ha desarrollado un carousel con FlatList
 
 Para utilizar el aplicativo realice los siguientes pasos:
-- Descarge el repositorio: git clone https://github.com/nicowr94/Carousel-App.git
-- Abrir consola en el proyecto
-- Para iniciar el aplicativo ejecute: npm start
+- Descarge el repositorio: 
+    ```git
+    $ git clone https://github.com/nicowr94/Carousel-App.git
+    ```
+- Abra la consola en el proyecto
+- Para iniciar el aplicativo ejecute: 
+    ```js
+    npm start
+    ```
 - Abrir el aplicativo de Expo Go desde el celular
 - Escanear el QR Code con Expo go
 
