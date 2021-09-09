@@ -147,7 +147,7 @@ const styles = StyleSheet.create({
     backgroundColor: "blue",
     width: "100%",
   },
-
+  
   container_buttons: {
     flexDirection: "row",
     padding: 20,
