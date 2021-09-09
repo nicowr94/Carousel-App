@@ -147,18 +147,7 @@ const styles = StyleSheet.create({
     backgroundColor: "blue",
     width: "100%",
   },
-  list_indicator: {
-    position: "absolute",
-    bottom: 10,
-    flexDirection: "row",
-  },
-  indicator: {
-    height: 10,
-    width: 10,
-    borderRadius: 5,
-    backgroundColor: "#333",
-    margin: 10,
-  },
+
   container_buttons: {
     flexDirection: "row",
     padding: 20,
