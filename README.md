@@ -21,7 +21,8 @@ Para utilizar el aplicativo realice los siguientes pasos:
 
 El aplicativo se ejecturá de la siguiente forma
 
-![Run Carousel-App](https://user-images.githubusercontent.com/35709873/132562745-c199cbe5-70d4-40c2-affd-ff32d44555b1.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/35709873/132602813-c8d130ea-ab22-443c-a1e2-ceb5ee7341e5.gif)
+
 
 
 
