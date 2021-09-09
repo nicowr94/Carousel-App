@@ -15,7 +15,8 @@ Para utilizar el aplicativo realice los siguientes pasos:
 - Abrir el aplicativo de Expo Go desde el celular
 - Escanear el QR Code con Expo go
 
-![Screenshot_1](https://user-images.githubusercontent.com/35709873/132562574-a1af5929-0596-4a00-abe5-68b38a989f11.png)
+![241311277_1596916833983881_3027526459972548432_n](https://user-images.githubusercontent.com/35709873/132603099-f39c6008-f96f-4572-98d5-3ecefa73aca4.jpg)
+
 
 ## Demo Carousel-App
 
